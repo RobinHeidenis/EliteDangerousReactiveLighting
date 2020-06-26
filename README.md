@@ -1,4 +1,5 @@
 # Elite Dangerous Reactive Lighting
+---
 This is a project to add reactive lighting to Elite: Dangerous for Corsair keyboards.
 All keyboard profiles have been created for the Strafe MK2.
 I don't know if this program works for any other keyboards, feedback is welcome.
