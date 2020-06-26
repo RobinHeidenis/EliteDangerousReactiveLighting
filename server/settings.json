@@ -1,0 +1,22 @@
+{
+	"BoundIP": "127.0.0.1",
+	"Port": "25555",
+	"Profiles":
+	[
+		{
+			"Process": "EliteDangerous64",
+			"AutoSetGame": "EliteDangerous64"
+		},
+		//{
+		//	"Process": "EliteDangerous64",
+		//	"Controller": "./Controller.py",
+		//	"CloseWithProcess": true,
+		//	"CloseOnProfileSwitch": false,
+		//	"EmbedController": false,
+		//	"CommandLineArgs": "",
+		//	"AutoSetGame": "",
+		//	"AutoSetGameOnClose": "",
+		//	"LockSetGame": ""
+		//}
+	]
+}
